@@ -1,14 +1,18 @@
 
 
+
+
 const quizData = [ 
     {
-    question: "What does HTML stand for?",
-     options: [ "Hypertext Markup Language",
-    "Hyper Transfer Markup Language",
-    "Hypertext Machine Language",
-    "Hyperlink and Text Markup Language",
-     ],
-    correct: 0,
+    question: "What is the capital of France?",
+     options: ["New York", "London", "Paris", "Dublin"],
+    correct: 2,
+    },
+    {
+        question: "Who painted the Mona Lisa?",
+        options: ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+        correct: 2,
+    
     },
     {
     question:"Which CSS property is used to control the spacing between elements?",
